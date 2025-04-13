@@ -1,2 +1,6 @@
 # IFEO
-映像劫持工具与防御工具
+所有文件为vs2022源代码
+IFEO_Hijack_Tool为映像劫持工具
+IFEO_Guard_Service为阻止未签名程序劫持
+IFEO_Guard_UI为方便使用防御工具开发的可视化面板
+IFEO_Guard_Service运行会在C:\Program Files\IFEOGuard下创建whitelist.txt与service.log若无法自动创建请手动添加
