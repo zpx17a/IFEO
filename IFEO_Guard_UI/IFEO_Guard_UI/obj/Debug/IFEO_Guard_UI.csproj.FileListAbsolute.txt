@@ -1,0 +1,16 @@
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\bin\Debug\IFEO_Guard_UI.exe.config
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\bin\Debug\IFEO_Guard_UI.exe
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\bin\Debug\IFEO_Guard_UI.pdb
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.csproj.AssemblyReference.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\MainWindow.baml
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\WhitelistWindow.baml
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\MainWindow.g.cs
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\WhitelistWindow.g.cs
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\App.g.cs
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI_MarkupCompile.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.g.resources
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.Properties.Resources.resources
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.csproj.GenerateResource.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.csproj.CoreCompileInputs.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.exe
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_UI\IFEO_Guard_UI\obj\Debug\IFEO_Guard_UI.pdb

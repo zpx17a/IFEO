@@ -1,0 +1,9 @@
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\bin\Debug\IFEO_Guard_Service.exe.config
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\bin\Debug\IFEO_Guard_Service.exe
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\bin\Debug\IFEO_Guard_Service.pdb
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.csproj.AssemblyReference.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.ProjectInstaller.resources
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.csproj.GenerateResource.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.csproj.CoreCompileInputs.cache
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.exe
+C:\Users\17815\Desktop\IFEO\IFEO_Guard_Service\IFEO_Guard_Service\obj\Debug\IFEO_Guard_Service.pdb
