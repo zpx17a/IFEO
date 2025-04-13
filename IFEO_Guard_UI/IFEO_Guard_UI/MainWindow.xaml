@@ -9,18 +9,15 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- 控制按钮 -->
         <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right">
             <Button x:Name="btnStart" Content="启动服务" Width="80" Margin="5" Click="BtnStart_Click"/>
             <Button x:Name="btnStop" Content="停止服务" Width="80" Margin="5" Click="BtnStop_Click"/>
         </StackPanel>
 
-        <!-- 日志显示 -->
         <TextBox x:Name="txtLog" Grid.Row="1" Margin="5" 
                  IsReadOnly="True" VerticalScrollBarVisibility="Auto"
                  TextWrapping="Wrap"/>
 
-        <!-- 底部按钮 -->
         <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
             <Button x:Name="btnClearLog" Content="清空日志" Width="80" Margin="5" Click="BtnClearLog_Click"/>
             <Button x:Name="btnManageWhitelist" Content="白名单管理" Width="80" Margin="5" Click="BtnManageWhitelist_Click"/>
