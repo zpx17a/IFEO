@@ -232,7 +232,6 @@ namespace IFEO_Guard_Service
 
                 if (_whitelist.Contains(fullPath))
                 {
-                    // 使用双重检查锁确保线程安全
                     lock (_logWhitelistLock)
                     {
                         if (!_logWhitelistEntries.Contains(fullPath))
