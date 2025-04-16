@@ -1,12 +1,1 @@
 # IFEO
-所有文件夹为vs2022源代码
-
-.py文件为注册表监控脚本，监控记录会以.log形式在同一路径下保存
-
-IFEO_Hijack_Tool为映像劫持工具
-
-IFEO_Guard_Service为阻止未签名程序劫持
-
-IFEO_Guard_UI为方便使用防御工具开发的可视化面板，Service与UI需在同一路径下
-
-IFEO_Guard_Service运行会在C:\Program Files\IFEOGuard下创建whitelist.txt与service.log若无法自动创建请手动添加
