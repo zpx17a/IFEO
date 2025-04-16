@@ -1,0 +1,7 @@
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\bin\Debug\Notepad_Checker.exe.config
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\bin\Debug\Notepad_Checker.exe
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\bin\Debug\Notepad_Checker.pdb
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\obj\Debug\Notepad_Checker.csproj.AssemblyReference.cache
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\obj\Debug\Notepad_Checker.csproj.CoreCompileInputs.cache
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\obj\Debug\Notepad_Checker.exe
+C:\Users\17815\Desktop\IFEO\Notepad_Checker\Notepad_Checker\obj\Debug\Notepad_Checker.pdb
