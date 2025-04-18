@@ -336,34 +336,5 @@ namespace IFEO_Guard_Service
                 FileLog($"日志系统故障: {ex.Message}", EventLogEntryType.Error);
             }
         }
-
-       
-
-        private void WriteToFileLog(string message, EventLogEntryType type)
-        {
-            lock (_logLock)
-            {
-                try
-                {
-                    bool fileExists = File.Exists(LogPath);
-                    string logContent = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] {type.ToString().ToUpper()}: {message}";
-
-                    if (fileExists && new FileInfo(LogPath).Length > 0)
-                    {
-                        logContent = Environment.NewLine + logContent;
-                    }
-
-                    using (var stream = new FileStream(LogPath, FileMode.Append, FileAccess.Write))
-                    using (var writer = new StreamWriter(stream))
-                    {
-                        writer.Write(logContent);
-                    }
-                }
-                catch (Exception ex)
-                {
-                    EventLog.WriteEntry($"文件日志写入失败: {ex.Message}", EventLogEntryType.Error);
-                }
-            }
-        }
     }
 }
