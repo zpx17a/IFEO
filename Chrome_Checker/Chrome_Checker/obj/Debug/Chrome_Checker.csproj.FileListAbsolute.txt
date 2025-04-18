@@ -1,0 +1,7 @@
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\bin\Debug\Chrome_Checker.exe.config
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\bin\Debug\Chrome_Checker.exe
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\bin\Debug\Chrome_Checker.pdb
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\obj\Debug\Chrome_Checker.csproj.AssemblyReference.cache
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\obj\Debug\Chrome_Checker.csproj.CoreCompileInputs.cache
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\obj\Debug\Chrome_Checker.exe
+C:\Users\17815\Desktop\IFEO\Chrome_Checker\Chrome_Checker\obj\Debug\Chrome_Checker.pdb
