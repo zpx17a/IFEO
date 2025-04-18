@@ -356,7 +356,7 @@ namespace IFEO_Guard_Service
                     using (var stream = new FileStream(LogPath, FileMode.Append, FileAccess.Write))
                     using (var writer = new StreamWriter(stream))
                     {
-                        writer.Write(logContent); // 注意使用Write而不是WriteLine
+                        writer.Write(logContent);
                     }
                 }
                 catch (Exception ex)
