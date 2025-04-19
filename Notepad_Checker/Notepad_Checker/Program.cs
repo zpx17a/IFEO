@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using Microsoft.Win32;
 
@@ -35,24 +35,25 @@ namespace Notepad_Checker
             }
 
             string originalExePath = args[0];
-            string originalArguments = "-bypass";
+            string originalArguments = string.Empty;
             Console.WriteLine("接收到启动请求：");
             Console.WriteLine("目标程序: " + originalExePath);
-            Console.WriteLine("启动参数: " + originalArguments);
-
+            
             bool envOk = CheckEnvironment();
             if (!envOk)
             {
                 Console.WriteLine("环境校验失败，拒绝启动原始程序。");
                 return -1;
             }
-            Console.WriteLine("环境校验通过，准备启动记事本...");
+            Console.WriteLine("环境校验通过，启动记事本。");
             SaveAndRemoveDebuggerRegistryEntry();
 
             string targetProgram = @"C:\Windows\System32\notepad.exe";
             string combinedArgs = (string.IsNullOrWhiteSpace(originalArguments)
                                         ? "-bypass"
                                         : originalArguments + " -bypass");
+
+            Console.WriteLine("启动参数: " + combinedArgs);
 
             ProcessStartInfo psi = new ProcessStartInfo
             {
@@ -66,7 +67,7 @@ namespace Notepad_Checker
             try
             {
                 Process proc = Process.Start(psi);
-                Console.WriteLine("成功启动记事本进程，等待其退出...");
+                Console.WriteLine("成功启动记事本进程。");
                 proc.WaitForExit();
                 exitCode = proc.ExitCode;
                 Console.WriteLine("记事本进程已退出，退出码：" + exitCode);
