@@ -21,7 +21,7 @@ def monitor_ifeo_changes():
                 for subkey in new_subkeys:
                     debugger_value = check_debugger_value(subkey)
                     log_event(f"新增子键: {subkey} | Debugger值: {debugger_value}")
-                    previous_debuggers[subkey] = debugger_value  # 立即记录初始值
+                    previous_debuggers[subkey] = debugger_value
             
             deleted_subkeys = list(set(initial_subkeys) - set(current_subkeys))
             if deleted_subkeys:
